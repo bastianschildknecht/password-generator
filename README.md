@@ -2,7 +2,7 @@
 Generates a random password with the given length and parameters.
 
 ## Usage
-```bash
+```console
 $ python generate_password.py -h
 usage: generate_password.py [-h] [-u] [-l] [-n] [-s] length
 
@@ -20,7 +20,7 @@ optional arguments:
 ```
 
 ## Example
-```bash
+```console
 $ python generate_password.py 10
 
 PASSWORD GENERATOR
